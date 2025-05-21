@@ -1,4 +1,4 @@
-# <header>
+# hello
 
 <!--
   <<< Author notes: Course header >>>
@@ -11,7 +11,7 @@
 
 ### _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-# </header>
+# yes?
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -65,7 +65,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-# you want me to write something meaningful like powerful? 
+## you want me to write something meaningful like powerful? 
 
 <!--
   <<< Author notes: Footer >>>
