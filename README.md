@@ -1,4 +1,4 @@
-<header>
+# hello
 
 <!--
   <<< Author notes: Course header >>>
@@ -7,11 +7,11 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+## Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+### _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-</header>
+# yes?
 
 <!--
   <<< Author notes: Step 5 >>>
@@ -30,7 +30,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>
+
 
 <!--
   <<< Author notes: Footer >>>
